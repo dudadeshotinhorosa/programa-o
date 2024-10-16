@@ -96,5 +96,5 @@ criaCartao(
 criaCartao(
     'Ed fisica',
     'Qual o número mínimo de jogadores em cada time numa partida de futebol?',
-7    ''
+    '7'.
 )
