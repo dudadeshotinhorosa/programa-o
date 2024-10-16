@@ -68,7 +68,7 @@ criaCartao(
     'Em que período da pré-história o fogo foi descoberto?',
     'peleolitico'
 )
-varcriaCartao(
+criaCartao(
     'educação fisica',
     'Qual a altura da rede de vôlei nos jogos masculino e feminino?',
     ' 2,43 m e 2,24 m.'
@@ -96,5 +96,5 @@ criaCartao(
 criaCartao(
     'Ed fisica',
     'Qual o número mínimo de jogadores em cada time numa partida de futebol?',
-    '7'.
+    '7'
 )
