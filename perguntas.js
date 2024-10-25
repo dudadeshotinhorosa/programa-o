@@ -4,42 +4,42 @@ criaCartao(
     'Utiliza-se a fórmula: ((a1+an)*r)/2'
 )
 criaCartao(
-    'robotica',
+    'robótica',
     'Computador é software ou hardware?',
     'hardware'
 )
 criaCartao(
-    'quimica',
+    'química',
     'Qual a formula do alceno?',
     'CnH2n'
 )
 criaCartao(
-    'Ciencias',
-    'Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue??',
+    'Ciências',
+    'Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?',
     'Tem entre 4 a 6 litros'
 )
 criaCartao(
-    'Historia',
+    'História',
     'De onde é a invenção do chuveiro elétrico?',
     'Brasil'
 )
 criaCartao(
     'geografia',
-    'Quais o menor e o maior país do mundo?',
+    'Qual o menor e o maior país do mundo?',
     'Vaticano e Rússia.'
 )
 criaCartao(
-    'portuguesa',
+    'português',
     ' Qual o grupo em que todas as palavras foram escritas corretamente?',
     ' Asterisco, beneficente, meteorologia, entretido.'
 )
 criaCartao(
-    'historia',
+    'história',
     'Qual o livro mais vendido no mundo a seguir à Bíblia?',
     'Dom Quixote.'
 )
 criaCartao(
-    'quimica',
+    'química',
     'Atualmente, quantos elementos químicos a tabela periódica possui?',
     '118'
 )
@@ -49,12 +49,12 @@ criaCartao(
     'Japão e Serra Leoa.'
 )
 criaCartao(
-    'ingles',
+    'inglês',
     'O que a palavra legend significa em português?',
     'lenda'
 )
 criaCartao(
-    'ciencias',
+    'ciências',
     'Qual a velocidade da luz?',
     ' 299 792 458 metros por segundo (m/s).'
 )
@@ -64,22 +64,22 @@ criaCartao(
     'pico da neblina'
 )
 criaCartao(
-    'historia',
+    'história',
     'Em que período da pré-história o fogo foi descoberto?',
-    'peleolitico'
+    'paleolítico'
 )
 criaCartao(
-    'educação fisica',
-    'Qual a altura da rede de vôlei nos jogos masculino e feminino?',
+    'educação física',
+    'Qual a altura da rede de vôlei no masculino, e no feminino?',
     ' 2,43 m e 2,24 m.'
 )
 criaCartao(
-    'ingles',
+    'inglês',
     'Qual a tradução da frase “Fabiano cogió su saco antes de salir”?',
     'Fabiano pegou seu paletó antes de sair.'
 )
 criaCartao(
-    'ciencias',
+    'ciências',
     'Quanto tempo a luz do Sol demora para chegar à Terra?',
     '8 minutos'
 )
@@ -94,7 +94,7 @@ criaCartao(
     'Proclamação da República e Dia Nacional da Consciência Negra.'
 )
 criaCartao(
-    'Ed fisica',
+    'Ed física',
     'Qual o número mínimo de jogadores em cada time numa partida de futebol?',
     '7'
 )
