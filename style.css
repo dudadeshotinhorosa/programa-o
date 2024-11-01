@@ -85,3 +85,13 @@ transition: transform 300ms ease-in-out;
     height: 100%;
     width: 100%;
 }
+header{
+    background-color: var(--preto);
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+header a {
+    color: var(--branco);
+    text-decoration: none;
+}
